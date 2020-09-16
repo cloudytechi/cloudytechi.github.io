@@ -1,6 +1,6 @@
 # Google Cloud Certification Training
 
-Intellipaat Google Cloud certification training online classes help you clear the Google Professional Cloud Architect certification exam. This training will give you hands-on experience in Google Cloud services like storage, computing, database, networking and security. Upon the completion of the google cloud platform training, you will be able to design and deploy scalable Google Cloud solutions for enterprises.
+Intellipaat [Google Cloud Course](https://intellipaat.com/google-cloud-certification-architect-training/) help you clear the Google Professional Cloud Architect certification exam. This training will give you hands-on experience in Google Cloud services like storage, computing, database, networking and security. Upon the completion of the google cloud platform training, you will be able to design and deploy scalable Google Cloud solutions for enterprises.
 
 What will you learn in this Google Cloud Platform training?
 Introduction to fundamentals of Google Cloud
